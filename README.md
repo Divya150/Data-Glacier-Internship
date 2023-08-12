@@ -1,2 +1,1 @@
-# Data-Glacier-Internship
-Version Control
+# VC
